@@ -50,7 +50,7 @@ function GroupBulletinBoard_GetLocale()
 		function GroupBulletinBoard_GetLocale()
 	local locales = {
 		ruRU = {	
-			["lfg_channel"]="Поиск Группы",
+			["lfg_channel"]="ПоискСпутников",
 			
 			["msgNbRequest"]="%d запрос(ы) - нажмите, чтобы шепнуть - Shift + нажмите /кто",
 			["msgStartWho"]="запросить /кто на %s...",
