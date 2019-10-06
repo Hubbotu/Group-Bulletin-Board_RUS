@@ -67,7 +67,7 @@ function GroupBulletinBoard_GetLocale()
 			
 			["msgNbRequest"]="%d запрос(ы) - нажмите, чтобы шепнуть - Shift + нажмите /кто",
 			["msgStartWho"]="запросить /кто на %s...",
-			--["msgNewRequest"]="New request by %s for dungeon %s.",
+			["msgNewRequest"]="Новый запрос от %s для подземелья %s.",
 			["msgInit"]="GroupBulletinBoard %s загружен. Введите /gbb чтобы начать.",
 			["msgTimeFormat"]="%dm %02ds",
 			["msgLevelRange"]="(Уровень %d - %d)",
